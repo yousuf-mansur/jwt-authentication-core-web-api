@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\",
+  "WorkspaceRootPath": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\apiwithjwtauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\apiwithjwtauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\apiwithjwtauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\sharedlibrary\\dto\u0027s\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\sharedlibrary\\dto\u0027s\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dto\u0027s\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\sharedlibrary\\dto\u0027s\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\sharedlibrary\\dto\u0027s\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dto\u0027s\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\sharedlibrary\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\sharedlibrary\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\sharedlibrary\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\sharedlibrary\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\project_test\\apiwithjwtauthentication\\apiwithjwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\idb classes\\module_9\\myprep\\jwttest\\jwtauth\\apiwithjwtauthentication\\apiwithjwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\apiwithjwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -84,35 +84,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IUserAccount.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:44:34.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T10:44:34.394Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:47:01.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T10:47:01.127Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "APIWithJWTAuthentication.csproj",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
               "RelativeToolTip": "APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -123,126 +121,117 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:01:06.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T10:01:06.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T11:45:18.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T11:45:18.432Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\appsettings.json",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\appsettings.json",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\appsettings.json",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\appsettings.json",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\appsettings.json",
               "RelativeToolTip": "APIWithJWTAuthentication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-07T10:03:03.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T10:03:03.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:59:57.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T09:59:57.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\ServiceResponse.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "SharedLibrary\\DTO\u0027s\\ServiceResponse.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\ServiceResponse.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\ServiceResponse.cs",
               "RelativeToolTip": "SharedLibrary\\DTO\u0027s\\ServiceResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:53:03.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T09:53:03.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "UserSession.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\UserSession.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\UserSession.cs",
               "RelativeDocumentMoniker": "SharedLibrary\\DTO\u0027s\\UserSession.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\UserSession.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\UserSession.cs",
               "RelativeToolTip": "SharedLibrary\\DTO\u0027s\\UserSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:56:23.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T09:56:23.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\LoginDTO.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\LoginDTO.cs",
               "RelativeDocumentMoniker": "SharedLibrary\\DTO\u0027s\\LoginDTO.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\LoginDTO.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\LoginDTO.cs",
               "RelativeToolTip": "SharedLibrary\\DTO\u0027s\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:47:57.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T09:47:57.211Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\UserDTO.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\UserDTO.cs",
               "RelativeDocumentMoniker": "SharedLibrary\\DTO\u0027s\\UserDTO.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\DTO\u0027s\\UserDTO.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\DTO\u0027s\\UserDTO.cs",
               "RelativeToolTip": "SharedLibrary\\DTO\u0027s\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:50:28.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T09:50:28.218Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Program.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Program.cs",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Program.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\Program.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\Program.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Program.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAIwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:08:42.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T10:08:42.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "SharedLibrary.csproj",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\SharedLibrary.csproj",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
               "RelativeDocumentMoniker": "SharedLibrary\\SharedLibrary.csproj",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\SharedLibrary\\SharedLibrary.csproj",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
               "RelativeToolTip": "SharedLibrary\\SharedLibrary.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -253,14 +242,13 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "APIWithJWTAuthentication.http",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
-              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\Project_Test\\APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
               "RelativeToolTip": "APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-07T10:10:07.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T10:10:07.368Z"
             }
           ]
         }

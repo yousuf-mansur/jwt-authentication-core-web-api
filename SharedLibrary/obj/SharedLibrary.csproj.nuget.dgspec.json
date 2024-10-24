@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj": {}
+    "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj": {}
   },
   "projects": {
-    "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj": {
+    "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
+        "projectUniqueName": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
         "projectName": "SharedLibrary",
-        "projectPath": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
+        "projectPath": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\SharedLibrary\\obj\\",
+        "outputPath": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

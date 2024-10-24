@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vbh2eTrl3WI=",
+  "dgSpecHash": "fJmrMqM9+Ik=",
   "success": true,
-  "projectFilePath": "D:\\IsDB-BISEW\\IDB Classes\\Module_9\\MyPrep\\JWTTEST\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
+  "projectFilePath": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
