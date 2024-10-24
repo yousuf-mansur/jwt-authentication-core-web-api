@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rgGTndtakikqY//fwwcig7Gmh7jufPNMpBtgyALqfoc=",
+  "Source": "APIWithJWTAuthentication",
+  "BasePath": "_content/APIWithJWTAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
