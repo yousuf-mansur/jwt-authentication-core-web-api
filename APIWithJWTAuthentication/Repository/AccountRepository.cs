@@ -2,11 +2,11 @@
 using APIWithJWTAuthentication.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
-using SharedLibrary.DTO_s;
+using SharedLibrary.DTOs;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using static SharedLibrary.DTO_s.ServiceResponse;
+using static SharedLibrary.DTOs.ServiceResponse;
 
 namespace APIWithJWTAuthentication.Repository
 {

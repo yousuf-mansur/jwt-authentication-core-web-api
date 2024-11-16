@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharedLibrary.DTO_s
+namespace SharedLibrary.DTOs
 {
     public class UserDTO
     {
@@ -21,6 +21,6 @@ namespace SharedLibrary.DTO_s
         public string Password { get; set; } = string.Empty;
         [Required]
         [Compare(nameof(Password))]
-        public string ConfirmPassword { get; set; }
+        public string? ConfirmPassword { get; set; }
     }
 }

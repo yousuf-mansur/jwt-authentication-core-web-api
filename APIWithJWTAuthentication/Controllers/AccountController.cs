@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using SharedLibrary.DTO_s;
+using SharedLibrary.DTOs;
 
 namespace APIWithJWTAuthentication.Controllers
 {

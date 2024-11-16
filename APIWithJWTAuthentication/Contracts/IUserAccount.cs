@@ -1,5 +1,5 @@
-﻿using SharedLibrary.DTO_s;
-using static SharedLibrary.DTO_s.ServiceResponse;
+﻿using SharedLibrary.DTOs;
+using static SharedLibrary.DTOs.ServiceResponse;
 
 namespace APIWithJWTAuthentication.Contracts
 {

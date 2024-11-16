@@ -20,3 +20,15 @@ D:\IsDB-BISEW\IDB Classes\Module_9\MyPrep\JWTTEST\Project_Test\SharedLibrary\obj
 D:\IsDB-BISEW\IDB Classes\Module_9\MyPrep\JWTTEST\Project_Test\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
 D:\IsDB-BISEW\IDB Classes\Module_9\MyPrep\JWTTEST\Project_Test\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
 D:\IsDB-BISEW\IDB Classes\Module_9\MyPrep\JWTTEST\Project_Test\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
