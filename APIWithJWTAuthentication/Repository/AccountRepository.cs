@@ -14,33 +14,48 @@ namespace APIWithJWTAuthentication.Repository
     {
         public async Task<GeneralResponse> CreateAccount(UserDTO userDTO)
         {
-            if (userDTO == null) return new GeneralResponse(false, "Model is Empty");
-            var newUser = new ApplicationUser()
+            try
             {
-                Name = userDTO.Name,
-                Email = userDTO.Email,
-                PasswordHash = userDTO.Password,
-                UserName = userDTO.Name
-            };
-            var user= await userManager.FindByEmailAsync(newUser.Email);
-            if (user is not null) return new GeneralResponse(false, "User already Registered");
-            var createuser=await userManager.CreateAsync(newUser!, userDTO.Password);
-            if (!createuser.Succeeded) return new GeneralResponse(false, "Error Occured");
-            var checkAdmin = await roleManager.FindByNameAsync("Admin");
-            if(checkAdmin is null)
-            {
-                await roleManager.CreateAsync(new IdentityRole() { Name = "Admin" });
-                await userManager.AddToRoleAsync(newUser, "Admin");
-                return new GeneralResponse(true, "Account Created");
-            }
-            else
-            {
-                var checkUser = await roleManager.FindByNameAsync("User");
-                if (checkUser is null)               
-                    await roleManager.CreateAsync(new IdentityRole() { Name = "User" });
+                if (userDTO == null) return new GeneralResponse(false, "Model is Empty");
+
+                var newUser = new ApplicationUser()
+                {
+                    Name = userDTO.Name,
+                    Email = userDTO.Email,
+                    UserName = userDTO.Email  // Better to use email as username
+                };
+
+                var user = await userManager.FindByEmailAsync(newUser.Email);
+                if (user is not null) return new GeneralResponse(false, "User already Registered");
+
+                var createUser = await userManager.CreateAsync(newUser, userDTO.Password);
+                if (!createUser.Succeeded)
+                {
+                    var errors = string.Join(", ", createUser.Errors.Select(x => x.Description));
+                    return new GeneralResponse(false, $"Error Occurred: {errors}");
+                }
+
+                var checkAdmin = await roleManager.FindByNameAsync("Admin");
+                if (checkAdmin is null)
+                {
+                    await roleManager.CreateAsync(new IdentityRole() { Name = "Admin" });
+                    await userManager.AddToRoleAsync(newUser, "Admin");
+                    return new GeneralResponse(true, "Admin Account Created");
+                }
+                else
+                {
+                    var checkUser = await roleManager.FindByNameAsync("User");
+                    if (checkUser is null)
+                    {
+                        await roleManager.CreateAsync(new IdentityRole() { Name = "User" });
+                    }
                     await userManager.AddToRoleAsync(newUser, "User");
-                    return new GeneralResponse(true, "Account Created");
-                
+                    return new GeneralResponse(true, "User Account Created");
+                }
+            }
+            catch (Exception ex)
+            {
+                return new GeneralResponse(false, $"An error occurred: {ex.Message}");
             }
         }
 
@@ -64,10 +79,10 @@ namespace APIWithJWTAuthentication.Repository
             var credentials=new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
             var userClaims = new[]
             {
-                new Claim(ClaimTypes.NameIdentifier, userSession.Id),
-                new Claim(ClaimTypes.Name, userSession.Name),
-                new Claim(ClaimTypes.Email, userSession.Email),
-                new Claim(ClaimTypes.Role, userSession.Role)
+                new Claim(ClaimTypes.NameIdentifier, userSession.Id!),
+                new Claim(ClaimTypes.Name, userSession.Name!),
+                new Claim(ClaimTypes.Email, userSession.Email!),
+                new Claim(ClaimTypes.Role, userSession.Role !)
 
             };
             var token = new JwtSecurityToken(

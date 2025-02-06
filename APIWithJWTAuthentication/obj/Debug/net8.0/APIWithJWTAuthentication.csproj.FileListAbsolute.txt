@@ -310,7 +310,6 @@ D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -450,3 +449,9 @@ D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\obj\Debug\net8
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\obj\Debug\net8.0\APIWithJWTAuthentication.pdb
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\obj\Debug\net8.0\APIWithJWTAuthentication.genruntimeconfig.cache
 D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\obj\Debug\net8.0\ref\APIWithJWTAuthentication.dll
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\APIWithJWTAuthentication.staticwebassets.endpoints.json
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\bin\Debug\net8.0\System.ClientModel.dll
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\obj\Debug\net8.0\staticwebassets\msbuild.APIWithJWTAuthentication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\IsDB-BISEW\GitProject\JwtAuth\JwtAuth\APIWithJWTAuthentication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

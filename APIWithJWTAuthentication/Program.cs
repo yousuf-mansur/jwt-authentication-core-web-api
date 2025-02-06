@@ -15,8 +15,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-
 builder.Services.AddEndpointsApiExplorer();
+
+
 //First Added thing
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
@@ -26,8 +27,16 @@ builder.Services.AddDbContext<AppDbContext>(options =>
         );
 });
 
-//Secondly Add Identity
-builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddSignInManager().AddRoles<IdentityRole>();
+
+//Password configuration
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+{
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireUppercase = true;
+    options.Password.RequireNonAlphanumeric = true;
+    options.Password.RequiredLength = 8;
+}).AddEntityFrameworkStores<AppDbContext>().AddSignInManager().AddRoles<IdentityRole>();
 
 //Thirdly JWT
 builder.Services.AddAuthentication(options =>
@@ -80,7 +89,7 @@ app.UseCors(policy =>
 });
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

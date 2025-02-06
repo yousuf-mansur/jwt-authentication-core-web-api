@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\sharedlibrary\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\sharedlibrary\\dtos\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +31,20 @@
       "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\sharedlibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\sharedlibrary\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\sharedlibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\apiwithjwtauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\apiwithjwtauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75C490CC-0745-496E-A68E-805AA9768902}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\apiwithjwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\apiwithjwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|d:\\isdb-bisew\\gitproject\\jwtauth\\jwtauth\\apiwithjwtauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1A26A2-8B79-4008-BFE4-1EB61B97356A}|APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj|solutionrelative:apiwithjwtauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,28 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
-              "RelativeToolTip": "APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:47:01.127Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\appsettings.json",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\appsettings.json",
+              "RelativeToolTip": "APIWithJWTAuthentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T07:41:12.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "SharedLibrary\\DTOs\\ServiceResponse.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\ServiceResponse.cs",
-              "RelativeToolTip": "SharedLibrary\\DTOs\\ServiceResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
+              "RelativeToolTip": "APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:53:03.857Z",
+              "WhenOpened": "2025-02-06T07:39:43.06Z",
               "EditorCaption": ""
             },
             {
@@ -114,35 +102,35 @@
               "RelativeDocumentMoniker": "SharedLibrary\\DTOs\\UserSession.cs",
               "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\UserSession.cs",
               "RelativeToolTip": "SharedLibrary\\DTOs\\UserSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:56:23.217Z",
+              "WhenOpened": "2025-02-06T07:39:24.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "APIWithJWTAuthentication\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "APIWithJWTAuthentication\\Repository\\AccountRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T11:45:18.432Z",
+              "WhenOpened": "2025-02-06T07:30:31.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IUserAccount.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
-              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
-              "RelativeToolTip": "APIWithJWTAuthentication\\Contracts\\IUserAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "APIWithJWTAuthentication\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:44:34.394Z",
+              "WhenOpened": "2025-02-06T07:33:25.696Z",
               "EditorCaption": ""
             },
             {
@@ -153,48 +141,35 @@
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Program.cs",
               "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Program.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:08:42.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "SharedLibrary\\DTOs\\UserDTO.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "SharedLibrary\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:50:28.218Z",
+              "WhenOpened": "2025-02-06T07:34:44.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "SharedLibrary\\DTOs\\LoginDTO.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\LoginDTO.cs",
-              "RelativeToolTip": "SharedLibrary\\DTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\DTOs\\ServiceResponse.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\ServiceResponse.cs",
+              "RelativeToolTip": "SharedLibrary\\DTOs\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:47:57.211Z",
+              "WhenOpened": "2025-02-06T07:39:03.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "APIWithJWTAuthentication\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "SharedLibrary\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:01:06.824Z",
+              "WhenOpened": "2025-02-06T07:38:50.23Z",
               "EditorCaption": ""
             },
             {
@@ -205,61 +180,36 @@
               "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
               "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
               "RelativeToolTip": "APIWithJWTAuthentication\\Data\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T09:59:57.812Z",
+              "WhenOpened": "2025-02-06T07:31:00.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\appsettings.json",
-              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\appsettings.json",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\appsettings.json",
-              "RelativeToolTip": "APIWithJWTAuthentication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-07T10:03:03.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "APIWithJWTAuthentication.csproj",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
-              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
-              "RelativeToolTip": "APIWithJWTAuthentication\\APIWithJWTAuthentication.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-07T09:39:32.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SharedLibrary.csproj",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
-              "RelativeDocumentMoniker": "SharedLibrary\\SharedLibrary.csproj",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\SharedLibrary.csproj",
-              "RelativeToolTip": "SharedLibrary\\SharedLibrary.csproj",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "APIWithJWTAuthentication\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-07T09:47:29.11Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:31:13.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "APIWithJWTAuthentication.http",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
-              "RelativeDocumentMoniker": "APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
-              "RelativeToolTip": "APIWithJWTAuthentication\\APIWithJWTAuthentication.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-07T10:10:07.368Z"
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\JwtAuth\\JwtAuth\\SharedLibrary\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "SharedLibrary\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:30:41.552Z",
+              "EditorCaption": ""
             }
           ]
         }
