@@ -22,22 +22,63 @@ jobs:
         run: dotnet restore Project_Test.sln
 
       - name: Download Coverity
+        env:
+          COVERITY_SCAN_TOKEN: ${{ secrets.MASUD_RANA }}
+          
+         
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          wget --post-data "token=${{ secrets.MASUD_RANA }}&project=${{ github.repository }}" -O coverity_tool.tgz https://scan.coverity.com/download/linux64
-          tar -xvzf coverity_tool.tgz
+          set -euo pipefail
 
-      - name: Run Coverity Build
+          if [ -z "${SLvw1vE5zuM-YwsJhsG9FA:-}" ]; then
+            echo "ERROR: Secret COVERITY_SCAN_TOKEN is not set." >&2
+            exit 1
+          fi
+
+          
+          # URL-encode the slash for Coverity
+          PROJECT_ENC="$(printf %s "$PROJECT" | sed 's/\//%2F/g')"
+
+          echo "Downloading Coverity for project: $PROJECT"
+          wget --content-disposition \
+               --post-data "token=$SLvw1vE5zuM-YwsJhsG9FA&project=$PROJECT_ENC" \
+               -O coverity_tool.tgz \
+               https://scan.coverity.com/download/linux64
+
+          tar -xzf coverity_tool.tgz
+          ls -1d cov-analysis-linux64-* > cov_dir.txt
+
+      - name: Run Coverity Build (capture)
         run: |
-          ./cov-analysis*/bin/cov-build --dir cov-int dotnet build Project_Test.sln --configuration Release
-
-      - name: Compress analysis
-        run: tar czvf cov-int.tgz cov-int
+          set -euo pipefail
+          COV_DIR="$(cat cov_dir.txt)"
+          "$COV_DIR/bin/cov-build" --dir cov-int \
+            dotnet build Project_Test.sln --configuration Release
+          tar -czf cov-int.tgz cov-int
 
       - name: Upload to Coverity
+        env:
+          COVERITY_SCAN_TOKEN: ${{ secrets.MASUD_RANA }}
+          COVERITY_SCAN_EMAIL: ${{ secrets.mansurmdyousuf@gmail.com }}
+          
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_SHA: ${{ github.sha }}
+          GITHUB_RUN_NUMBER: ${{ github.run_number }}
         run: |
-          curl --form token=${{ secrets.MASUD_RANA }} \
-               --form email="mansurmdyousuf@gmail.com" \
-               --form file=@cov-int.tgz \
-               --form version="v1.0.0" \
-               --form description="Test Project for Coverity" \
-               https://scan.coverity.com/builds?project=${{ github.repository }}
+          set -euo pipefail
+
+          if [ -z "${mansurmdyousuf@gmail.com:-}" ]; then
+            echo "ERROR: Secret mansurmdyousuf@gmail.com is not set." >&2
+            exit 1
+          fi
+
+         
+          PROJECT_ENC="$(printf %s "$PROJECT" | sed 's/\//%2F/g')"
+
+          curl --fail --silent --show-error \
+            --form token="$SLvw1vE5zuM-YwsJhsG9FA" \
+            --form email="$mansurmdyousuf@gmail.com" \
+            --form file=@cov-int.tgz \
+            --form version="$GITHUB_SHA" \
+            --form description="GitHub Actions build ${GITHUB_RUN_NUMBER} for ${PROJECT}" \
+            "https://scan.coverity.com/builds?project=${PROJECT_ENC}"
